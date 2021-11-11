@@ -1,19 +1,5 @@
- {
-  "sources": {
-      "esri": {
-          "type": "vector",
-          "bounds": [
-              -180,
-              -85.0511,
-              180,
-              85.0511
-          ],
-          "minzoom": 0,
-          "maxzoom": 16,
-          "scheme": "xyz",
-          "tiles": [
-              "https://pkk.rosreestr.ru/arcgis/rest/services/Hosted/caddivsion/VectorTileServer/tile/{z}/{y}/{x}.pbf"
-          ]
-      }
-  }
-}
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-50.2734375,55.578344672182],[-53.4375,47.989921667414],[-42.5390625,47.989921667414],[-41.484375,55.578344672182],[-50.2734375,55.578344672182]]]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-26.71875,54.977613670696],[-27.7734375,47.517200697839],[-15.46875,48.458351882809],[-18.6328125,54.977613670696],[-26.71875,54.977613670696]]]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-52.734375,39.095962936306],[-53.7890625,28.613459424004],[-32.34375,21.943045533438],[-14.0625,30.448673679288],[-14.0625,38.822590976177],[-32.34375,29.840643899834],[-52.734375,39.095962936306]]]},"properties":{}}
+]}
